@@ -1,0 +1,7 @@
+#palabra {
+    position: absolute;
+    font-size: 2rem;
+    color: #333;
+    cursor: default;
+    user-select: none;
+  }
